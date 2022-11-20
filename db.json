@@ -1,0 +1,111 @@
+{
+    "Burgers": [
+        {
+            "id": 1,
+            "nome": "Cheeseburger",
+            "descricao": "Pão de brioche, Blend 100% Angus e Queijo prato.",
+            "carne": "90g",
+            "preco": 19
+        },
+        {
+            "id": 2,
+            "nome": "Cheesesalada Clásico",
+            "descricao": "Pão de brioche, Blend 100% Angus, Queijo Prato, Alface Americano, Tomate, Cebola Roxa, Picles de Pepino e Maionese Artesanal de Ervas.",
+            "carne": "90g",
+            "preco": 23
+        },
+        {
+            "id": 3,
+            "nome": "Impostor",
+            "descricao": "Pão de brioche, Blend 100% Angus, Queijo Cheddar, Picles de cebola roxa, Maionese de Picles e Bacon em tiras.",
+            "carne": "90g",
+            "preco": 25
+        },
+        {
+            "id": 4,
+            "nome": "Provocante",
+            "descricao": "Pão de brioche, Blend 100% Angus, Queijo Provolone Defumado, Onions Rings, Maionese Artesanal de Chimichurri e Farofa de Bacon.",
+            "carne": "90g",
+            "preco": 26
+        },
+        {
+            "id": 5,
+            "nome": "Australiano",
+            "descricao": "Pão de Australiano, Blend 100% Angus, Queijo Cheddar Artesanal, Molho Barbecue e Onions Riongs.",
+            "carne": "90g",
+            "preco": 27
+        },
+        {
+            "id": 6,
+            "nome": "Fabuloso Origens",
+            "descricao": "Pão de brioche, Blend 100% Angus, Queijo Gouda, Bacon em Cubos e Geleia de Goiabada Picante.",
+            "carne": "90g",
+            "preco": 29
+        },
+        {
+            "id": 7,
+            "nome": "Gorgô",
+            "descricao": "Pão de brioche, Blend 100% Angus, Queijo Gorgonzola Fresco, Geleia Artesanal de Damasco e Bacon em Tiras.",
+            "carne": "90g",
+            "preco": 27
+        },
+        {
+            "id": 7,
+            "nome": "Melbourne",
+            "descricao": "Pão de brioche, Blend 100% Angus, Quejo Cheddar Artesanal, Cebola Caramelizada. Bacon em Tiras e Molho Ranch.",
+            "carne": "90g",
+            "preco": 27
+        },
+        {
+            "id": 8,
+            "nome": "Smash",
+            "descricao": "Pão de brioche, Blend 100% Angus Esmagada na Chapa, Queijo Prato, Maionese Artesanal de Alho e Cebola Caramelizada.",
+            "carne": "90g",
+            "preco": 22
+        }
+    ],
+    "acompanhamentos": [
+        {
+            "id": 1,
+            "nome": "Batata Canoa Rustica",
+            "preco": 14
+        },
+        {
+            "id": 2,
+            "nome": "Batata Palito",
+            "preco": 14
+        },
+        {
+            "id": 3,
+            "nome": "Onions Rings",
+            "preco": 14
+        },
+        {
+            "id": 4,
+            "nome": "Batata Chips",
+            "preco": 14
+        }
+    ],
+    "Bebidas": [
+        {
+            "id": 1,
+            "nome": "Coca-cola lt 350ml",
+            "preco": 7.5
+        },
+        {
+            "id": 2,
+            "nome": "Chá gelado Fuze Leão 350ml",
+            "preco": 7.5
+        },
+        {
+            "id": 3,
+            "nome": "Água sem gás 500ml",
+            "preco": 5
+        },
+        {
+            "id": 4,
+            "nome": "Água com gás 500ml",
+            "preco": 5
+        }
+    ]
+}
